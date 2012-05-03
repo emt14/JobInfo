@@ -1,0 +1,5 @@
+# Default JobInfo messages
+# You can specialize this file for each language.
+# For exemple, for french create a messages.fr file
+
+#JobInfo.name=JobInfo
